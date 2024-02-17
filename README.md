@@ -1,12 +1,3 @@
-# Python-codes
-Bu repoda pythonda yozgan barcha kodlarim (old version)
-
-
-# Python-codes
-Bu repoda pythonda yozgan barcha kodlarim majmuasi (Mualif huqulari buzulmasin)
-
-
-
 
 tg kannallar :
 https://t.me/pythonbooks
